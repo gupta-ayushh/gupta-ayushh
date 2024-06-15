@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<h3 align="center">Second Year Computer Science Undergraduate at IIT Delhi</h3>
+<h3 align="center">Third Year Computer Science Undergraduate at IIT Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta-ayushh&label=Profile%20views&color=0e75b6&style=flat" alt="gupta-ayushh" /> </p>
 
